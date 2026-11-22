@@ -1,3 +1,6 @@
+## FOCUS CAMERA & FREE CAMERA VIEW
+<img width="500" alt="Screenshot (237)" src="https://github.com/user-attachments/assets/15da2a8b-249d-4b4e-bb1a-a9c21c0d8298" />
+
 # TELEVISI HOME 
 <img width="500" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/6f5474b7-243f-4cda-97b5-0b463c60a716" />
 
