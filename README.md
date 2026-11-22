@@ -13,3 +13,12 @@
 
 ## OPENING LIVE TV APP 
 <img width="500" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/76571b60-aba2-4be8-ba8a-c83141d0b2ff" />
+
+## MEDIA PLAYER APP | VIDEO MODE | LOCAL MEDIA FOLDER
+
+## MEDIA PLAYER APP | MUSIC MODE | LOCAL MEDIA FOLDER
+<img width="500" alt="Screenshot (234)" src="https://github.com/user-attachments/assets/dbd601b9-7914-4912-944c-0078d6cb85d0" />
+
+## MEDIA PLAYER APP | PICTURE MODE | LOCAL MEDIA FOLDER
+<img width="500" alt="Screenshot (236)" src="https://github.com/user-attachments/assets/26923ba9-0600-4f02-943d-a5232636d15e" />
+
